@@ -1,0 +1,87 @@
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\MSU F.P.exe.config
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\MSU F.P.exe
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\MSU F.P.pdb
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\MSU F.P.xml
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\MySql.Data.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\Google.Protobuf.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\Zstandard.Net.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\Renci.SshNet.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\System.Buffers.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\System.Memory.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\MySql.Data.xml
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU F.P.vbprojAssemblyReference.cache
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU F.P.exe.config
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.Resources.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU F.P.vbproj.GenerateResource.cache
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU F.P.vbproj.CoreCompileInputs.cache
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU F.P.vbproj.CopyComplete
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU F.P.exe
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU F.P.xml
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU F.P.pdb
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormLogin.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormStaffLogin.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustomerInfo.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustomerMain.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormNewOrder.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormStaffMain.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormStaffList.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormProductList.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormSuppliersList.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormPayslip.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormStaffOrderView.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustomerLogin.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustomerOrders.resources
+C:\Users\Ahroura\source\repos\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustInfoEdit.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\MSU F.P.exe.config
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\MSU F.P.exe
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\MSU F.P.pdb
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\MSU F.P.xml
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\MySql.Data.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\Google.Protobuf.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\Zstandard.Net.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\Renci.SshNet.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\System.Buffers.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\System.Memory.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\bin\Debug\MySql.Data.xml
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU F.P.vbprojAssemblyReference.cache
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU F.P.exe.config
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustInfoEdit.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustomerLogin.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustomerOrders.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormLogin.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormNewOrder.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormPayslip.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormProductList.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormStaffList.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormStaffLogin.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustomerMain.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormCustomerInfo.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormStaffMain.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormStaffOrderView.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormSuppliersList.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.Resources.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU F.P.vbproj.GenerateResource.cache
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU F.P.vbproj.CoreCompileInputs.cache
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU F.P.vbproj.CopyComplete
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU F.P.exe
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU F.P.xml
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU F.P.pdb
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormEmailRegister.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormInfoRegister.resources
+C:\Users\Joewen Juhuat\Desktop\Norm\MSU F.P\MSU F.P\obj\Debug\MSU_F.P.FormUserPassInfo.resources

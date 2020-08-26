@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D98B60AE-EE4A-4A56-ACD1-5CC941E01860}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MSU_F.P.My.MyApplication</StartupObject>
+    <RootNamespace>MSU_F.P</RootNamespace>
+    <AssemblyName>MSU F.P</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MSU F.P.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MSU F.P.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ikea.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.14.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.14.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormCustInfoEdit.Designer.vb">
+      <DependentUpon>FormCustInfoEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustInfoEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomerLogin.Designer.vb">
+      <DependentUpon>FormCustomerLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomerLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomerOrders.Designer.vb">
+      <DependentUpon>FormCustomerOrders.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomerOrders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmailRegister.Designer.vb">
+      <DependentUpon>FormEmailRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmailRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInfoRegister.Designer.vb">
+      <DependentUpon>FormInfoRegister.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormInfoRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewOrder.Designer.vb">
+      <DependentUpon>FormNewOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPayslip.Designer.vb">
+      <DependentUpon>FormPayslip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPayslip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProductList.Designer.vb">
+      <DependentUpon>FormProductList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormProductList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStaffList.Designer.vb">
+      <DependentUpon>FormStaffList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormStaffList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStaffLogin.Designer.vb">
+      <DependentUpon>FormStaffLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormStaffLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomerMain.Designer.vb">
+      <DependentUpon>FormCustomerMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomerMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCustomerInfo.Designer.vb">
+      <DependentUpon>FormCustomerInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCustomerInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStaffMain.Designer.vb">
+      <DependentUpon>FormStaffMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormStaffMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStaffOrderView.Designer.vb">
+      <DependentUpon>FormStaffOrderView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormStaffOrderView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSuppliersList.Designer.vb">
+      <DependentUpon>FormSuppliersList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSuppliersList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUserPassInfo.Designer.vb">
+      <DependentUpon>FormUserPassInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUserPassInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GradientPanel.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RGB.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormCustInfoEdit.resx">
+      <DependentUpon>FormCustInfoEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomerLogin.resx">
+      <DependentUpon>FormCustomerLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomerOrders.resx">
+      <DependentUpon>FormCustomerOrders.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmailRegister.resx">
+      <DependentUpon>FormEmailRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInfoRegister.resx">
+      <DependentUpon>FormInfoRegister.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewOrder.resx">
+      <DependentUpon>FormNewOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPayslip.resx">
+      <DependentUpon>FormPayslip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProductList.resx">
+      <DependentUpon>FormProductList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStaffList.resx">
+      <DependentUpon>FormStaffList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStaffLogin.resx">
+      <DependentUpon>FormStaffLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomerMain.resx">
+      <DependentUpon>FormCustomerMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCustomerInfo.resx">
+      <DependentUpon>FormCustomerInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStaffMain.resx">
+      <DependentUpon>FormStaffMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStaffOrderView.resx">
+      <DependentUpon>FormStaffOrderView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSuppliersList.resx">
+      <DependentUpon>FormSuppliersList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUserPassInfo.resx">
+      <DependentUpon>FormUserPassInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ikea.ico" />
+    <None Include="Resources\Vimle.jpg" />
+    <None Include="Resources\Vilto.png" />
+    <None Include="Resources\Tarva.jpg" />
+    <None Include="Resources\Songesand.jpg" />
+    <None Include="Resources\Songesand wardrobe.jpg" />
+    <None Include="Resources\sandbacken.jpg" />
+    <None Include="Resources\Samtidig.jpg" />
+    <None Include="Resources\Renberget.jpg" />
+    <None Include="Resources\Pax.jpg" />
+    <None Include="Resources\Millberget.jpg" />
+    <None Include="Resources\Markus.jpg" />
+    <None Include="Resources\Malm.jpg" />
+    <None Include="Resources\Linnmon.png" />
+    <None Include="Resources\Krustad.jpg" />
+    <None Include="Resources\Kallax.jpg" />
+    <None Include="Resources\Hejne.jpg" />
+    <None Include="Resources\Hammarn.png" />
+    <None Include="Resources\Ekedalen.jpg" />
+    <None Include="Resources\Dinera.jpg" />
+    <None Include="Resources\Brimnes.jpg" />
+    <None Include="Resources\Bekant.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
